@@ -1,0 +1,1 @@
+system("ruby test_arg.rb",10.to_s)
